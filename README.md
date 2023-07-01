@@ -1,1 +1,1 @@
-# projects
+# This is the main branch where I will be adding all my projects.
