@@ -1,1 +1,1 @@
-# This is the main branch where I will be adding all my projects.
+# This repository will contain statistics revisions that are useful for data science.
